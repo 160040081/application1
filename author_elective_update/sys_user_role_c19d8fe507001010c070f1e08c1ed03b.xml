@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_480060_app1.Mahesh</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Mahesh</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 13:58:56</sys_created_on>
+        <sys_id>c19d8fe507001010c070f1e08c1ed03b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_480060_app1.Mahesh</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_update_name>sys_user_role_c19d8fe507001010c070f1e08c1ed03b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 13:58:56</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="APP1">f481439707330010c070f1e08c1ed0fa</application>
+        <file_path/>
+        <instance_id>7d2da0e4dbf1c85042b321c40596198b</instance_id>
+        <instance_name>dev96224</instance_name>
+        <name>sys_user_role_c19d8fe507001010c070f1e08c1ed03b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_480060_app1.Mahesh</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Mahesh</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 13:58:56</sys_created_on><sys_id>c19d8fe507001010c070f1e08c1ed03b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_480060_app1.Mahesh</sys_name><sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package><sys_policy/><sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope><sys_update_name>sys_user_role_c19d8fe507001010c070f1e08c1ed03b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 13:58:56</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1394684595</payload_hash>
+        <record_name>x_480060_app1.Mahesh</record_name>
+        <reverted_from/>
+        <source>c981439707330010c070f1e08c1ed0fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 13:58:56</sys_created_on>
+        <sys_id>bcadc32907001010c070f1e08c1ed0dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715a1633c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 13:58:56</sys_updated_on>
+        <type>Role</type>
+        <update_guid>f4adc32908001010598f47f21b4a15dd</update_guid>
+        <update_guid_history>f4adc32908001010598f47f21b4a15dd:1394684595</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_480060_app1.Mahesh">f59a172507401010c070f1e08c1ed05b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 14:55:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>29d995d8771649d18869221d53c183e1</sys_id>
+        <sys_metadata>c19d8fe507001010c070f1e08c1ed03b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_480060_app1.Mahesh</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_scope_delete display_value="">4fc2ab2f0eff43ecb7064163a0f02090</sys_scope_delete>
+        <sys_update_name>sys_user_role_c19d8fe507001010c070f1e08c1ed03b</sys_update_name>
+        <sys_update_version display_value="sys_user_role_c19d8fe507001010c070f1e08c1ed03b">bcadc32907001010c070f1e08c1ed0dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 14:55:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

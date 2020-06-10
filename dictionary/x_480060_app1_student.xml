@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_480060_app1_student" type="collection">
+        <element label="Name of Student" max_length="40" name="name_of_student" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Do You Want To add Personal Info" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="hrithk" sequence="0" value="hrithk"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="n"/>
+                <element inactive="true" inactive_on_update="true" label="salman" sequence="1" value="salman"/>
+                <element inactive="true" inactive_on_update="true" label="ntr" sequence="2" value="ntr"/>
+                <element inactive="true" inactive_on_update="true" label="rajanikanth" sequence="3" value="rajanikanth"/>
+                <element inactive="true" inactive_on_update="true" label="vijay" sequence="4" value="vijay"/>
+                <element inactive="true" inactive_on_update="true" label="surya" sequence="5" value="surya"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="fav hero" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="salman" sequence="0" value="salman"/>
+                <element inactive_on_update="false" label="rajni kanth" sequence="1" value="rajni kanth"/>
+                <element inactive_on_update="false" label="sharuk" sequence="2" value="sharuk"/>
+                <element inactive_on_update="false" label="nani" sequence="3" value="nani"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_choice_3" dependent_on_field="u_choice_3" label="fav movie" max_length="40" name="u_choice_4" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="salman" inactive_on_update="false" label="baj rangi bhai jaan" sequence="0" value="baj rangi bhai jaan"/>
+                <element dependent_value="salman" inactive_on_update="false" label="dabang" sequence="1" value="dabang"/>
+                <element dependent_value="rajni kanth" inactive_on_update="false" label="darbar" sequence="2" value="darbar"/>
+                <element dependent_value="rajni kanth" inactive_on_update="false" label="kaala" sequence="3" value="kaala"/>
+                <element dependent_value="nani" inactive_on_update="false" label="eega" sequence="4" value="eega"/>
+                <element dependent_value="nani" inactive_on_update="false" label="ninnu kori" sequence="5" value="ninnu kori"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Research Group" max_length="40" name="u_choice_8" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Data science" sequence="0" value="DS"/>
+                <element inactive_on_update="false" label="Internet Of Things" sequence="1" value="IOT"/>
+                <element inactive_on_update="false" label="Network Security" sequence="2" value="NS"/>
+                <element inactive_on_update="false" label="Software Engineering" sequence="3" value="SE"/>
+                <element inactive_on_update="false" label="Artificial Intelligence" sequence="4" value="AI"/>
+                <element inactive_on_update="false" label="Others" sequence="5" value="others"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Leave from" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Leave upto" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father Name" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Name" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father Number" max_length="40" name="u_string_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Number" max_length="40" name="u_string_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father name" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother name" max_length="40" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father Number" max_length="40" name="u_string_16" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Number" max_length="40" name="u_string_17" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Username of student" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="If Others PL Specify" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sum of two numbers" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First number" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Second Number" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of Records with same Address" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" max_length="40" name="u_string_9" type="string"/>
+    </element>
+</database>

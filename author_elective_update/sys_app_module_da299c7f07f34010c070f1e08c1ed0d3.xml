@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Opens Students Entry</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Student Entry</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_480060_app1_student</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 14:24:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da299c7f07f34010c070f1e08c1ed0d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Entry</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_update_name>sys_app_module_da299c7f07f34010c070f1e08c1ed0d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 14:24:09</sys_updated_on>
+        <timeline_page/>
+        <title>Student Entry</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Student</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="APP1">f481439707330010c070f1e08c1ed0fa</application>
+        <file_path/>
+        <instance_id>7d2da0e4dbf1c85042b321c40596198b</instance_id>
+        <instance_name>dev96224</instance_name>
+        <name>sys_app_module_da299c7f07f34010c070f1e08c1ed0d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint>Opens Students Entry</hint><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Student Entry</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_480060_app1_student</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-02 14:24:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da299c7f07f34010c070f1e08c1ed0d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student Entry</sys_name><sys_overrides/><sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package><sys_policy/><sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope><sys_update_name>sys_app_module_da299c7f07f34010c070f1e08c1ed0d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-02 14:24:09</sys_updated_on><timeline_page/><title>Student Entry</title><uncancelable>false</uncancelable><view_name>Student</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1034022193</payload_hash>
+        <record_name>Student Entry</record_name>
+        <reverted_from/>
+        <source>c981439707330010c070f1e08c1ed0fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 14:24:09</sys_created_on>
+        <sys_id>77d9d8bf07f34010c070f1e08c1ed065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1713b4722410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 14:24:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bfd9d8bfc6f340104f99017214060c64</update_guid>
+        <update_guid_history>bfd9d8bfc6f340104f99017214060c64:1034022193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Student Entry">563b143307374010c070f1e08c1ed09f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 14:30:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>33326882357e4e98aa87993c1555d9f1</sys_id>
+        <sys_metadata>da299c7f07f34010c070f1e08c1ed0d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Entry</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_scope_delete display_value="">4fc2ab2f0eff43ecb7064163a0f02090</sys_scope_delete>
+        <sys_update_name>sys_app_module_da299c7f07f34010c070f1e08c1ed0d3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_da299c7f07f34010c070f1e08c1ed0d3">77d9d8bf07f34010c070f1e08c1ed065</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 14:30:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

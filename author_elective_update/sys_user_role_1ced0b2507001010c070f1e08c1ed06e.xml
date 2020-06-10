@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_480060_app1.Prabhas</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Prabhas</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 14:00:11</sys_created_on>
+        <sys_id>1ced0b2507001010c070f1e08c1ed06e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_480060_app1.Prabhas</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_update_name>sys_user_role_1ced0b2507001010c070f1e08c1ed06e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 14:00:11</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="APP1">f481439707330010c070f1e08c1ed0fa</application>
+        <file_path/>
+        <instance_id>7d2da0e4dbf1c85042b321c40596198b</instance_id>
+        <instance_name>dev96224</instance_name>
+        <name>sys_user_role_1ced0b2507001010c070f1e08c1ed06e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_480060_app1.Prabhas</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Prabhas</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 14:00:11</sys_created_on><sys_id>1ced0b2507001010c070f1e08c1ed06e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_480060_app1.Prabhas</sys_name><sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package><sys_policy/><sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope><sys_update_name>sys_user_role_1ced0b2507001010c070f1e08c1ed06e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 14:00:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1736367702</payload_hash>
+        <record_name>x_480060_app1.Prabhas</record_name>
+        <reverted_from/>
+        <source>c981439707330010c070f1e08c1ed0fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 14:00:11</sys_created_on>
+        <sys_id>4bed832907001010c070f1e08c1ed07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715a1758c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 14:00:11</sys_updated_on>
+        <type>Role</type>
+        <update_guid>83ed83293f001010e1b95c5c80feff7e</update_guid>
+        <update_guid_history>83ed83293f001010e1b95c5c80feff7e:1736367702</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_480060_app1.Prabhas">b26a532507401010c070f1e08c1ed00a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 14:54:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0a079ed9058c4b6b8f13862445940f01</sys_id>
+        <sys_metadata>1ced0b2507001010c070f1e08c1ed06e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_480060_app1.Prabhas</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_scope_delete display_value="">4fc2ab2f0eff43ecb7064163a0f02090</sys_scope_delete>
+        <sys_update_name>sys_user_role_1ced0b2507001010c070f1e08c1ed06e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_1ced0b2507001010c070f1e08c1ed06e">4bed832907001010c070f1e08c1ed07e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 14:54:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

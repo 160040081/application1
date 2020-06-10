@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Personal Details" section_id="29f9047307f34010c070f1e08c1ed0cf" sys_domain="global" table="x_480060_app1_student" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_14</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>97337ccd07885410c070f1e08c1ed0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_16</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>1f337ccd07885410c070f1e08c1ed0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>9f337ccd07885410c070f1e08c1ed0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>13337ccd07885410c070f1e08c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>93337ccd07885410c070f1e08c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_15</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>17337ccd07885410c070f1e08c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_17</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>97337ccd07885410c070f1e08c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 13:27:23</sys_created_on>
+            <sys_id>1b337ccd07885410c070f1e08c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_480060_app1_student" sys_domain="global" view="Default view">29f9047307f34010c070f1e08c1ed0cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 13:27:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Personal Details</caption>
+            <header>false</header>
+            <name>x_480060_app1_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 13:14:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29f9047307f34010c070f1e08c1ed0cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Personal Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+            <sys_update_name>sys_ui_section_29f9047307f34010c070f1e08c1ed0cf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 13:14:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

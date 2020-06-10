@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_choice_3</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>CS2</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	var x=g_form.getValue('u_choice_3');
+	//alert(x);
+	g_form.clearOptions('u_choice_4');
+	g_form.addDecoration('u_choice_8','icon_user','RG');
+	if(x=='salman')
+		{
+			g_form.clearMessages();
+			g_form.addErrorMessage('salman is a bollywood star');
+			g_form.addOption('u_choice_4','baj rangi bhai jaan','baj rangi bhai jaan');
+			g_form.addOption('u_choice_4','dabang','dabang');
+			g_form.showErrorBox('u_choice_3','change user to regional');
+		}
+	if(x=='rajni kanth')
+		{
+			
+			g_form.clearMessages();
+			g_form.addInfoMessage('rajani kanth is Kollywood star');
+			g_form.addOption('u_choice_4','darbar','darbar');
+			g_form.addOption('u_choice_4','robo','robo');
+			g_form.showFieldMsg('u_choice_3','Good selection');
+		}
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-03 16:31:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddbf710407c49010c070f1e08c1ed03f</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>CS2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_update_name>sys_script_client_ddbf710407c49010c070f1e08c1ed03f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-03 17:06:45</sys_updated_on>
+        <table>x_480060_app1_student</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="APP1">f481439707330010c070f1e08c1ed0fa</application>
+        <file_path/>
+        <instance_id>7d2da0e4dbf1c85042b321c40596198b</instance_id>
+        <instance_name>dev96224</instance_name>
+        <name>sys_script_client_ddbf710407c49010c070f1e08c1ed03f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;u_choice_3&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;CS2&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	var x=g_form.getValue('u_choice_3');
+	//alert(x);
+	g_form.clearOptions('u_choice_4');
+	g_form.addDecoration('u_choice_8','icon_user','RG');
+	if(x=='salman')
+		{
+			g_form.clearMessages();
+			g_form.addErrorMessage('salman is a bollywood star');
+			g_form.addOption('u_choice_4','baj rangi bhai jaan','baj rangi bhai jaan');
+			g_form.addOption('u_choice_4','dabang','dabang');
+			g_form.showErrorBox('u_choice_3','change user to regional');
+		}
+	if(x=='rajni kanth')
+		{
+			
+			g_form.clearMessages();
+			g_form.addInfoMessage('rajani kanth is Kollywood star');
+			g_form.addOption('u_choice_4','darbar','darbar');
+			g_form.addOption('u_choice_4','robo','robo');
+			g_form.showFieldMsg('u_choice_3','Good selection');
+		}
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-03 16:31:07&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ddbf710407c49010c070f1e08c1ed03f&lt;/sys_id&gt;&lt;sys_mod_count&gt;12&lt;/sys_mod_count&gt;&lt;sys_name&gt;CS2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="APP1" source="x_480060_app1"&gt;f481439707330010c070f1e08c1ed0fa&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="APP1"&gt;f481439707330010c070f1e08c1ed0fa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_ddbf710407c49010c070f1e08c1ed03f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-03 17:06:45&lt;/sys_updated_on&gt;&lt;table&gt;x_480060_app1_student&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-163769678</payload_hash>
+        <record_name>CS2</record_name>
+        <reverted_from/>
+        <source>c981439707330010c070f1e08c1ed0fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-03 17:06:45</sys_created_on>
+        <sys_id>d3a88e8807c49010c070f1e08c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17141025c1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-03 17:06:45</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>5fa88e8809c49010bacf0ea43a7bd28a</update_guid>
+        <update_guid_history>5fa88e8809c49010bacf0ea43a7bd28a:-163769678,5798420cc1c490100c7bf181cb0fa987:-521643917,fcb706c8dcc4901077143d5150b4c9d7:2133984868,c2478e8801c49010ae897b9801f59b86:-2036630816,7517c64845c49010eafb87139722a0ae:70827869,b8c6068835c49010c49c364866725ba5:-899262286,14a6464802c4901055c18cccd51d8a22:-1851586118,b5060a484bc490101ec1c71a6de66d49:700108977,2e958e0861c490107fec312cf12d1ddf:-380828253,572542846dc490107feb678a6bf09441:-1672114323,8a24cec472c4901001a30f94d09760fd:-950498974,763186c02fc49010273cc7d7443385be:57171928,e5800e0479c490101cbdc38b3dece396:2017162678</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 07:30:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>058a945110934ac480942aa6ff6fbe04</sys_id>
+        <sys_metadata>ddbf710407c49010c070f1e08c1ed03f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS2</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_parent display_value="Student">2db4431707730010c070f1e08c1ed06b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_scope_delete display_value="">4fc2ab2f0eff43ecb7064163a0f02090</sys_scope_delete>
+        <sys_update_name>sys_script_client_ddbf710407c49010c070f1e08c1ed03f</sys_update_name>
+        <sys_update_version display_value="sys_script_client_ddbf710407c49010c070f1e08c1ed03f">d3a88e8807c49010c070f1e08c1ed08b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 07:30:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

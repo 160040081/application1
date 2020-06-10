@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_4" table="x_480060_app1_student" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>salman</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>baj rangi bhai jaan</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d26ebd8007c49010c070f1e08c1ed0af</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:54:23</sys_updated_on>
+            <value>baj rangi bhai jaan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>salman</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dabang</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>166ebd8007c49010c070f1e08c1ed0b0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:54:34</sys_updated_on>
+            <value>dabang</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>rajni kanth</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>darbar</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>926ebd8007c49010c070f1e08c1ed0b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:54:55</sys_updated_on>
+            <value>darbar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>rajni kanth</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>kaala</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>126ebd8007c49010c070f1e08c1ed0b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:55:00</sys_updated_on>
+            <value>kaala</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>nani</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eega</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e6ebd8007c49010c070f1e08c1ed0b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:55:10</sys_updated_on>
+            <value>eega</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>nani</dependent_value>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ninnu kori</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e6ebd8007c49010c070f1e08c1ed0b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 07:55:14</sys_updated_on>
+            <value>ninnu kori</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_4</element>
+            <name>x_480060_app1_student</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-03 16:21:54</sys_created_on>
+            <sys_id>1e6ebd8007c49010c070f1e08c1ed0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_4</sys_name>
+            <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+            <sys_update_name>sys_choice_x_480060_app1_student_u_choice_4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-03 16:21:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

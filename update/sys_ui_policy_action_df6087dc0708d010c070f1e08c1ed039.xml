@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_string_4</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 15:50:01</sys_created_on>
+        <sys_id>df6087dc0708d010c070f1e08c1ed039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_string_4</sys_name>
+        <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+        <sys_update_name>sys_ui_policy_action_df6087dc0708d010c070f1e08c1ed039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 15:50:01</sys_updated_on>
+        <table>x_480060_app1_student</table>
+        <ui_policy display_value="Example on UI policy">becebe5c0708d010c070f1e08c1ed0c5</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_1" label="Do You Want To add Personal Info" language="en" table="x_480060_app1_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <help/>
+            <hint/>
+            <label>Do You Want To add Personal Info</label>
+            <language>en</language>
+            <name>x_480060_app1_student</name>
+            <plural>Do You Want To add Personal Infos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-04 14:55:21</sys_created_on>
+            <sys_id>d034b6140708d010c070f1e08c1ed0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Do You Want To add Personal Info</sys_name>
+            <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+            <sys_update_name>sys_documentation_x_480060_app1_student_u_choice_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 14:55:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

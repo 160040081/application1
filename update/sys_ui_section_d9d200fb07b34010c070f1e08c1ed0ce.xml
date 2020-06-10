@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d9d200fb07b34010c070f1e08c1ed0ce" sys_domain="global" table="x_480060_app1_student" version="3" view="Student">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>15d200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>95d200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>19d200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>99d200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_student</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>1dd200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>9dd200fb07b34010c070f1e08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>11d200fb07b34010c070f1e08c1ed0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_id>91d200fb07b34010c070f1e08c1ed0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_480060_app1_student" sys_domain="global" view="c0a24cbb07b34010c070f1e08c1ed0fc">d9d200fb07b34010c070f1e08c1ed0ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_480060_app1_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 12:43:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9d200fb07b34010c070f1e08c1ed0ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_480060_app1_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="APP1" source="x_480060_app1">f481439707330010c070f1e08c1ed0fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="APP1">f481439707330010c070f1e08c1ed0fa</sys_scope>
+            <sys_update_name>sys_ui_section_d9d200fb07b34010c070f1e08c1ed0ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 12:43:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Student" name="Student">c0a24cbb07b34010c070f1e08c1ed0fc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
